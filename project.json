@@ -1,0 +1,21 @@
+{
+  "id": 1451,
+  "title": "Renewable Energy Trainer Guided Lessons",
+  "repository_slug": "renewable-energy-trainer-guided-lessons",
+  "category": "Education",
+  "platform": "Arduino Uno",
+  "platform_family": "arduino",
+  "difficulty": "Beginner",
+  "estimated_hours": 12,
+  "connectivity": "USB serial",
+  "components": [
+    "current sensor",
+    "SD card",
+    "rotary encoder"
+  ],
+  "scope": "Build a education prototype that uses current sensor, SD card, rotary encoder to lead learners through structured experiments. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Guided Lessons demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/renewable-energy-trainer-guided-lessons/renewable-energy-trainer-guided-lessons.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
